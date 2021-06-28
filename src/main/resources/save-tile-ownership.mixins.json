@@ -1,0 +1,8 @@
+{
+    "minVersion": "0.8",
+    "refmap": "save-tile-ownership.refmap.json",
+    "package": "rmc.mixins.save_tile_ownership.inject",
+    "mixins": [
+        "BlockItemMixin"
+    ]
+}
